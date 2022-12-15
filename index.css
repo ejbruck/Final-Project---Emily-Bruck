@@ -1,0 +1,45 @@
+body{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.article{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 900px;
+	background-color: #FAEBD7;
+}
+
+.byline {
+	font-size: 16px;
+}
+
+.date-posted {
+	font-size: 16px;
+}
+
+.story-header{
+	font-style: bold;
+	font-size: 25px;
+	font-family: Verdana;
+	text-align: center;
+
+}
+
+.story-header2 {
+	font-size: 20px;
+}
+
+.story{
+	font-family: Times New Roman;
+	margin-left: 40px;
+	margin-right: 40px;
+	font-size: 18px;
+}
+	
+
+.sources {
+	font-size: 16px;
+}
